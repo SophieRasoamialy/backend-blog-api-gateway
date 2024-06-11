@@ -52,9 +52,9 @@ cd blog-backend/api-gateway && node server.js
 # Lancer les Services:
 Sans l'API Gateway, les services seront accessibles aux ports suivants :
 
-User Service: http://localhost:3001
-Post Service: http://localhost:3002
-Comment Service: http://localhost:3003
-Reaction Service: http://localhost:3004
+- User Service: http://localhost:3001.
+- Post Service: http://localhost:3002.
+- Comment Service: http://localhost:3003.
+- Reaction Service: http://localhost:3004.
 
 Avec l'API Gateway, le serveur sera accessible à l'adresse http://localhost:5000
