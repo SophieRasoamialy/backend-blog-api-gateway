@@ -27,7 +27,7 @@ L'API Gateway est le point d'entrée unique pour toutes les requêtes client. Il
 1. Cloner le dépôt :
 
 ```bash
-git clone <lien-du-depot>
+git clone https://github.com/SophieRasoamialy/backend-blog-api-gateway.git
 
 # Gateway
 cd blog-backend/api-gateway && npm install
