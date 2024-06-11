@@ -11,6 +11,9 @@ L'architecture de ce projet est basée sur des microservices, ce qui signifie qu
 - **Comment Service**: Gère les commentaires sur les publications.
 - **Reaction Service**: Gère les réactions (likes, dislikes) sur les publications.
 
+![poject](https://github.com/SophieRasoamialy/backend-blog-api-gateway/assets/82450731/9109a036-b9b2-4d6a-ad80-81cfb6b71213)
+
+
 ## JS API Gateway
 
 L'API Gateway est le point d'entrée unique pour toutes les requêtes client. Il dirige les requêtes vers les microservices appropriés en fonction du chemin de l'URL. Cela permet d'abstraire la complexité de l'infrastructure microservice et fournit une interface unifiée pour les clients.
