@@ -11,6 +11,8 @@ L'architecture de ce projet est basée sur des microservices, ce qui signifie qu
 - **Comment Service**: Gère les commentaires sur les publications.
 - **Reaction Service**: Gère les réactions (likes, dislikes) sur les publications.
 
+  ![Structure du projet(project.jpeg)
+
 ## JS API Gateway
 
 L'API Gateway est le point d'entrée unique pour toutes les requêtes client. Il dirige les requêtes vers les microservices appropriés en fonction du chemin de l'URL. Cela permet d'abstraire la complexité de l'infrastructure microservice et fournit une interface unifiée pour les clients.
