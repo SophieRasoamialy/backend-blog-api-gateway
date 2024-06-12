@@ -1,3 +1,9 @@
+# GROUPE SOA - M2 GB 
+ - 2152  RASOAMIALY Hasindrae Sophie
+ - 2218  RAZAFIMAHEFA Manombosoa Armel
+ - 2208  FAGNAMPILAHY Heriniaina Albertin
+ - 2195  ANDONIAINA Jean Freddy
+   
 # Blog Backend avec JS API Gateway
 
 Ce projet est le backend d'une application de blog. Il est conçu avec une architecture de microservices et utilise JS API Gateway pour orchestrer les requêtes vers les différents services.
